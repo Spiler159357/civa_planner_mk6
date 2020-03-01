@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738090827385",
+    "firebase_url": "https://cyivacom.firebaseio.com",
+    "project_id": "cyivacom",
+    "storage_bucket": "cyivacom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738090827385:android:2aec7a006014e530b2dea8",
+        "android_client_info": {
+          "package_name": "com.example.civa_planner_mk6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738090827385-h5ib13av67t46klshfe5im4lt4tesa1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civa_planner_mk6",
+            "certificate_hash": "af6cba704ce8b2462521dad065751bc93ebcc67e"
+          }
+        },
+        {
+          "client_id": "738090827385-0ojku655daj0cvjl62rvksqr2ihml05e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvDR_HfZDZlGAddiy1YAMFC8yt1guc_Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738090827385-qugoj3ofk15nuhc4irbemaope2de0amc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
